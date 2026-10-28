@@ -6,8 +6,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=klaymm&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&hide_title=true&include_all_commits=true&locale=ru" />
-    <img alt="Статистика GitHub" src="https://github-readme-stats-fast.vercel.app/api?username=klaymm&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&include_all_commits=true&locale=ru" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/klaymm/klaymm/output/github-stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/klaymm/klaymm/output/github-stats.svg" />
+    <img alt="Статистика GitHub" src="https://raw.githubusercontent.com/klaymm/klaymm/output/github-stats.svg" />
   </picture>
 </p>
 
